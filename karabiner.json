@@ -4,7 +4,7 @@
   "homepage": "https://github.com/helman/Capslock",
   "hostpage": "https://pqrs.org/osx/karabiner/complex_modifications/",
   "manual": "https://github.com/helman/Capslock/tree/master/mac",
-  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/helman/Capslock/master/mac/capslock.json",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/helman/Capslock/master/karabiner.json",
   "rules": [
     {
       "description": "CapsLock to Hyper/Escape",
